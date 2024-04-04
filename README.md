@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<p align="center">Resolvo grandes desafios usando tecnologia. <br><br> Desenvolvedor FullStack apaixonado por resolver problemas complexos através da tecnologia. Gosto de equilibrar minha carreira entre competências técnicas e gerenciais, por isso ganhei experiência trabalhando como pleno  analisando e melhorando continuamente softwares, integrando tudo isso aos fundamentos do desenvolvimento ágil.</p>&nbsp;
+<p align="center">Apaixonado por tecnologia e react.<br><br> Desenvolvedor FullStack apaixonado por resolver problemas complexos através da tecnologia. Gosto de equilibrar minha carreira entre competências técnicas e gerenciais, por isso ganhei experiência trabalhando como pleno  analisando e melhorando continuamente softwares, integrando tudo isso aos fundamentos do desenvolvimento ágil.</p>&nbsp;
 
  
  &nbsp;
